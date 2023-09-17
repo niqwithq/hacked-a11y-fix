@@ -1,5 +1,5 @@
 html {
-    background-color: #101110;
+    background-color: #030a20;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif, 'Times New Roman', Times, serif;
     font-size: 100%;
@@ -11,8 +11,8 @@ html {
     margin: 3em auto 6em;
 }
 
-#line {
-    border-bottom: 0.1em solid green;
+hr {
+    border-bottom: 2px solid green;
     width: 50%;
     margin-left: auto;
     margin-right: auto;
@@ -38,24 +38,19 @@ figcaption {
 
 footer {
     padding-top: 2%;
-    border-top: floralwhite solid 0.1em;
+    border-top: #4BB7F0 solid 2px;
     margin-bottom: 5%;
 }
 
 blockquote {
-    border-left: 0.5em solid #4BB7F0;
+    border-left: 6px solid #4BB7F0;
     text-align: left;
     margin-left: 5%;
     margin-right: 5%;
     padding: 1em;
-    background-color: #474c47;
+    background-color: #011148;
 }
 
 a {
     color: #4BB7F0;
-}
-
-a:focus-within {
-    background-color: yellow;
-    border: 10px white;
 }
