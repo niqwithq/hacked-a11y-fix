@@ -5,5 +5,5 @@ I decided to make it more accessible myself, almost two decades later.
 
 You can find the result here: https://niqwithq.github.io/hacked-a11y-fix/
 
-Feel free to make it eeven more accessible. 
+Feel free to make it even more accessible. 
 Read more in my blog post: [Do Hackers Care About Accessibility?](https://niqwithq.com/posts/hackers)
