@@ -1,0 +1,61 @@
+html {
+    background-color: #101110;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, 'Times New Roman', Times, serif;
+    font-size: 100%;
+}
+
+#main {
+    max-width: 48em;
+    padding: 0 1em;
+    margin: 3em auto 6em;
+}
+
+#line {
+    border-bottom: 0.1em solid green;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hacked {
+    margin-top: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.centered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+figcaption {
+    font-size: 0.8em;
+}
+
+footer {
+    padding-top: 2%;
+    border-top: floralwhite solid 0.1em;
+    margin-bottom: 5%;
+}
+
+blockquote {
+    border-left: 0.5em solid #4BB7F0;
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 1em;
+    background-color: #474c47;
+}
+
+a {
+    color: #4BB7F0;
+}
+
+a:focus-within {
+    background-color: yellow;
+    border: 10px white;
+}
